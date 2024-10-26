@@ -18,7 +18,7 @@ The AI-Powered SEO Auditor Tool is a free application designed to help website o
 - Ensure you have a compatible environment to run the tool (e.g., a web server or local development setup).
 
 ### Installation
-1. **Download the Tool**: Access the tool from the provided link in the video description.
+1. **Download the Tool**: Access the tool
 2. **Set Up the Environment**: Follow the detailed guide linked in the description for installation instructions.
 3. **Run the Tool**: Launch the application in your browser.
 
